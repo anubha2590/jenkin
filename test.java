@@ -3,7 +3,7 @@ public class test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.print("hhihihihijghjg");
+		System.out.print("Welcome to first git jenkin");
 
 	}
 
